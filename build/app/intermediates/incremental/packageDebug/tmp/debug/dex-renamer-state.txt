@@ -1,0 +1,4 @@
+#Tue Mar 12 11:15:38 CST 2019
+base.0=E\:\\MyDemo\\material-components-flutter-codelabs-101-starter\\mdc_100_series\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
